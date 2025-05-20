@@ -1,0 +1,11 @@
+order:
+  - 1-Pytorch-Intro
+  - 2-Backpropagation
+  - 3-Gradient-Descent
+  - 4-Simple-Network
+  # - 5-Feedforward-NN
+  # - 6-Convolutional-NN
+  # - 7-Segmentation
+  # - 8-Detection
+  # - 9-Word2Vec
+  # - 10-Transformer

@@ -1,0 +1,14 @@
+{
+    "name": "dockerContainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "laborantum.laborantum"
+            ]
+        }
+    }
+}
