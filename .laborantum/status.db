@@ -1,0 +1,129 @@
+{
+    "chapters": [
+        {
+            "path": "/texts/course/config.yml",
+            "status": {
+                "total": 12,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/1-Pytorch-Intro/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/2-Backpropagation/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/3-Gradient-Descent/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/4-Simple-Network/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/2-Gradient-Descent/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/3-Backpropagation/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/5-Feedforward-NN/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/6-Convolutional-NN/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/7-Segmentation/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/8-Detection/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/9-Word2Vec/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/10-Transformer/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        }
+    ],
+    "lessons": [
+        {
+            "path": "/texts/course/1-Pytorch-Intro/1-Pytorch-Getting-Started/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/2-Gradient-Descent/2-Gradient-Descent-Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3-Backpropagation/3-Coding-Backprop-In-Numpy/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4-Simple-Network/4-Training-a-Simple-Network/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        }
+    ]
+}
